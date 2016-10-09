@@ -20,12 +20,12 @@ p {
 	position: relative;
 }
 header#mainHeader {
-	height: 185px;
+	height: 130px;
 	background: url(Images/Logo.png) no-repeat 25px center;
 	padding: 0 75px 0 300px;
 	position: relative;
 	border-bottom: 2px solid #7f7f7f;
-	margin-bottom:16px;
+	margin-bottom:10px;
 }
 header#mainHeader div{
 	margin-top: 16px;
