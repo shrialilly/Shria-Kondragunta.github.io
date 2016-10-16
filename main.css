@@ -20,12 +20,7 @@ p {
 	text-align: left;
 	position: relative;
 }
-#imgLogo
-{
-	Width:75px;
-	height:75px;
-	float:left;
-}
+
 header#mainHeader {
 	height: 185px;	
 	padding: 0 75px 0 300px;
