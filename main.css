@@ -12,16 +12,20 @@ h1 {
 p {
 	color: darkblue;
 }
-#divLogo
-{
-	background: url(Images/Logo..jpg) no-repeat 25px center;
-}
+
 #wrapper {
 	width: 1100px;
 	margin: 0 auto;
 	padding: 0 50px;
 	text-align: left;
 	position: relative;
+}
+#imgLogo
+{
+	background: no-repeat 25px center; 
+	width:75px;
+	height:75px;
+	float:left;
 }
 header#mainHeader {
 	height: 185px;	
