@@ -19,8 +19,7 @@ p {
 	text-align: left;
 	position: relative;
 }
-header#mainHeader {
-	width: 5%;
+header#mainHeader { 
     height: 50px;
     background: url(Images/Logo..jpg) no-repeat 25px center;
 	padding: 0 75px 0 300px;
