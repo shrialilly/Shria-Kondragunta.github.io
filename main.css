@@ -25,10 +25,10 @@ header#mainHeader {
 	padding: 0 75px 0 300px;
 	position: relative;
 	border-bottom: 2px solid #7f7f7f;
-	margin-bottom:30px;
+	margin-bottom:150px;
 }
 header#mainHeader div{
-	margin-top: 16px;
+	margin-top: 150px;
 }
 header#mainHeader ul{
 	list-style: none;
