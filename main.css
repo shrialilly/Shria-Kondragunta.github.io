@@ -22,15 +22,13 @@ p {
 header#mainHeader {
 	height: 185px;
 	background: url(Images/Logo..jpg) no-repeat 25px center;
+	width:540px; 
+    height: auto;
 	padding: 0 75px 0 300px;
 	position: relative;
 	border-bottom: 2px solid #7f7f7f;
 	margin-bottom:16px;
-}
-img.resize{
-    width:540px; 
-    height: auto;
-}
+
 header#mainHeader div{
 	margin-top: 16px;
 }
