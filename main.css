@@ -20,10 +20,10 @@ p {
 	position: relative;
 }
 header#mainHeader {
-	height: 185px;
-	background: url(Images/Logo..jpg) no-repeat 25px center;
-	width:540px; 
-    height: auto;
+	width: 5%;
+    height: 50px;
+    background-image: url(Images/Logo..jpg) no-repeat 25px center
+    background-image: 5% 5%;
 	padding: 0 75px 0 300px;
 	position: relative;
 	border-bottom: 2px solid #7f7f7f;
