@@ -12,20 +12,21 @@ h1 {
 p {
 	color: darkblue;
 }
+
 #wrapper {
-	width: 150px;
+	width: 1100px;
 	margin: 0 auto;
 	padding: 0 50px;
 	text-align: left;
 	position: relative;
 }
+
 header#mainHeader {
-	height: 150px;
-	background: url(Images/Logo..jpg) no-repeat 25px center;
+	height: 185px;	
 	padding: 0 75px 0 300px;
 	position: relative;
 	border-bottom: 2px solid #7f7f7f;
-	margin-bottom:30px;
+	margin-bottom:16px;
 }
 header#mainHeader div{
 	margin-top: 16px;
